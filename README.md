@@ -50,7 +50,3 @@ python train.py --epochs 100 \
 				--par "felm_da" \
 				--logdir "felm_da/femnist/little-attack"
 ```
-
-## 🤩Results
-
-![femnist](assets/femnist.png)
